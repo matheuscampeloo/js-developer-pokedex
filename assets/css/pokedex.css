@@ -93,10 +93,17 @@
     font-size: .625rem;
 }
 
+.pokemon .xp {
+    color: #000;
+    opacity: .3;
+    text-align: left;
+    font-size: .625rem;
+}
+
 .pokemon .name {
     text-transform: capitalize;
     color: #fff;
-    margin-bottom: .25rem;
+    margin-bottom: .50rem;
 }
 
 .pokemon .detail {
